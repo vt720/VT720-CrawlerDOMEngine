@@ -1,6 +1,6 @@
 # VT720-CrawlerDOMEngine
 
-> 基于 DOM 解析、深度爬取与 JavaScript 深挖的 **子域名收集引擎**，使用 Python 编写。
+> 基于 DOM 解析、深度爬取与 JavaScript 深挖的 **子域名收集引擎**，使用 Python 编写  by VT720。
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
